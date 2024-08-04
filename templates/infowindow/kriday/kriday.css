@@ -1,0 +1,77 @@
+.fc-item-kriday .fc-item-meta,
+.fc-item-kriday .fc-item-taxonomy {
+    padding-right: 0px;
+}
+
+.fc-item-kriday .fc-item-taxonomy span,
+.fc-item-kriday .fc-item-meta span {
+    margin-right: 0px;
+}
+
+.fc-item-kriday .fc-item-taxonomy span span {
+    margin-left: 3px;
+}
+
+.fc-item-kriday .fc-item-meta span {
+    margin-right: 3px;
+}
+
+.fc-item-kriday .fc-item-taxonomy span.fc-left span {
+    font-weight: bold;
+}
+
+.fc-item-kriday .fc-item-taxonomy img {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+}
+
+.fc-item-kriday .fc-item-taxonomy .fc-right .fa-heart {
+    margin-left: 5px;
+}
+
+.fc-infowindow-kriday .fc-item-box {
+    margin: 0px !important;
+    max-width: 400px;
+}
+
+.fc-infowindow-kriday img.fc-item-featured_image {
+    margin-top: 0px;
+}
+
+.fc-infowindow-kriday div {
+    box-sizing: border-box !important;
+}
+
+.fc-infowindow-kriday>div {
+    padding: 0px !important;
+}
+
+.fc-infowindow-kriday {
+    box-sizing: border-box !important;
+    padding: 0px !important;
+}
+
+.fc-infowindow-kriday .fc-item-box {
+    border: none;
+}
+
+.fc-infowindow-kriday img.fc-item-featured_image+p {
+    margin: 0px;
+    padding: 0px;
+}
+
+.gm-style .gm-style-iw {
+    top: 1px;
+    left: 1px !important;
+    width: 99.3% !important;
+    padding-top: 0px;
+    display: block !important;
+
+}
+
+.gm-style .gm-style-iw>div {}
+
+.fc-infowindow-kriday .fc-item-no-padding {
+    padding: 0px !important;
+}

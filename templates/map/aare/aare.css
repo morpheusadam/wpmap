@@ -1,0 +1,34 @@
+.wpomp_filters_checklist {
+    display: block;
+    margin: 10px 0px;
+    clear: both;
+}
+
+.wpomp_filters_checklist label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.wpomp_filters_checklist input {
+    margin-left: 10px !important;
+}
+
+.wpomp_filters_list {
+    margin: 10px;
+    clear: both;
+}
+
+.wpomp_filters_list li {
+    padding: 10px;
+    border: 1px solid #ddd;
+    background: #f1f1f1;
+    cursor: pointer;
+    float: left;
+    margin-right: 10px;
+}
+
+.wpomp_filters_list li:hover,
+.wpomp_filters_list li.fc_selected {
+    background: #ff00ff;
+    color: white;
+}

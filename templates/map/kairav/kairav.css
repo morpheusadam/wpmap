@@ -1,0 +1,26 @@
+.fc-item-kairav .fc-item-taxonomy {
+    padding-right: 0px;
+    clear: both;
+}
+
+.fc-item-kairav .fc-item-taxonomy span {
+    margin-right: 0px;
+}
+
+.fc-item-kairav .fc-item-taxonomy span span {
+    margin-left: 3px;
+}
+
+.fc-item-kairav .fc-item-taxonomy span.fc-left span {
+    font-weight: bold;
+}
+
+.fc-item-kairav .fc-item-taxonomy img {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+}
+
+.fc-item-kairav .fc-featured-block {
+    margin-top: 5px;
+}

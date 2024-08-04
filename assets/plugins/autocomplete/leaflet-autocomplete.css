@@ -1,0 +1,92 @@
+
+/* 
+    Created on : Aug 31, 2015
+    Author     : yeozkaya@gmail.com
+*/
+
+.searchContainer {
+    position: relative;
+}
+
+.searchBox {
+    width: 310px;
+    height:46px;
+    border: none;
+    margin-left: 10px;
+    overflow: hidden;
+    outline: none;
+}
+
+
+#resultsDiv.result {
+    position: absolute;
+    background-color: white;
+    width: 399px; 
+    top: 200px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -moz-box-shadow: 2px 2px 2px -2px gray;
+    -webkit-box-shadow: 2px 2px 2px -2px gray;
+    box-shadow: 2px 2px 2px -2px gray;
+}
+
+#resultsDiv .list {
+    list-style-type:none;
+    padding-left:0;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.listResult {
+    background-color: white;
+    height: 38px;
+    margin-bottom: 0px;
+    border-top: 1px solid #e6e6e6;
+}
+
+.listResult.active {
+    background-color: lightskyblue;
+}
+
+.listResult.mouseover {
+    background-color: lightgrey;
+}
+
+.iconStyle {
+    width: 24px;
+    height: 24px;
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+#resultsDiv .content {
+    float: left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 38px;
+    width: 399px; 
+    line-height:38px;
+}
+
+.pagingDiv {
+    border-top: 1px solid #e6e6e6;
+}
+
+.pagingArrow {
+    vertical-align: bottom;
+}
+
+.title {
+    margin-left: 10px;
+    line-height:38px;;
+}
+
+#resultsDiv.result {
+        top: 42px;
+    z-index: 9999;
+}

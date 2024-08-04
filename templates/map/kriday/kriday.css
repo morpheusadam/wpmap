@@ -1,0 +1,31 @@
+.fc-item-kriday .fc-item-meta,
+.fc-item-kriday .fc-item-taxonomy {
+    padding-right: 0px;
+}
+
+.fc-item-kriday .fc-item-taxonomy span,
+.fc-item-kriday .fc-item-meta span {
+    margin-right: 0px;
+}
+
+.fc-item-kriday .fc-item-taxonomy span span {
+    margin-left: 3px;
+}
+
+.fc-item-kriday .fc-item-meta span {
+    margin-right: 3px;
+}
+
+.fc-item-kriday .fc-item-taxonomy span.fc-left span {
+    font-weight: bold;
+}
+
+.fc-item-kriday .fc-item-taxonomy img {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+}
+
+.fc-item-kriday .fc-item-taxonomy .fc-right .fa-heart {
+    margin-left: 5px;
+}

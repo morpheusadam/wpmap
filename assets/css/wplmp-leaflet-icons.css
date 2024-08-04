@@ -1,0 +1,29 @@
+#select_icons .read_icons {
+	width: 32px;
+	height: 32px;
+	float: left;}
+#select_icons .active img {
+	border: 3px solid #000;
+	width: 26px;
+}
+.wplml_media_form .media-title{
+	color: #5A5A5A;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-weight: normal;
+	font-size: 1.6em;
+	margin-left: 10px;
+}
+
+.wplml_media_form .wplmp_media_container{
+	margin-bottom:20px; 
+	float:left; width:100%;
+}
+.wplml_media_form #select_icons{
+	float:left; width:100%;
+}
+#select_icons img{
+	cursor:pointer;
+}
+.wplmp-insert-icons{
+	margin-left:10px;
+}

@@ -1,0 +1,53 @@
+.wpomp_listing_container .fc-item-kairav .fc-item-taxonomy {
+    padding-right: 0px;
+    clear: both;
+}
+
+.wpomp_listing_container .fc-item-kairav .fc-item-taxonomy span {
+    margin-right: 0px;
+}
+
+.wpomp_listing_container .fc-item-kairav .fc-item-taxonomy span span {
+    margin-left: 3px;
+}
+
+.wpomp_listing_container .fc-item-kairav .fc-item-taxonomy span.fc-left span {
+    font-weight: bold;
+}
+
+.wpomp_listing_container .fc-item-kairav .fc-item-taxonomy img {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+}
+
+.wpomp_listing_container .fc-item-kairav .fc-featured-block {
+    margin-top: 5px;
+}
+
+.wpomp_listing_container .fc-item-kairav .fc-component-content ul li.fc-component-thumb img {
+    width: 100% !important;
+    height: auto;
+    margin: 0px !important;
+    padding: 0px;
+}
+
+.fc-itemcontent-padding {
+    padding: 0 15px;
+}
+
+@media(max-width:767px) {
+    .wpomp_listing_list .fc-item-kairav .wpomp_locations {
+        padding: 0px 0 0px 0 !important;
+    }
+
+    .wpomp_listing_list .fc-itemcontent-padding,
+    .wpomp_listing_grid .fc-itemcontent-padding {
+        padding: 15px !important;
+    }
+
+    .wpomp_listing_container .fc-item-kairav .fc-item-box {
+        margin: 10px 0 !important;
+        width: 100%;
+    }
+}

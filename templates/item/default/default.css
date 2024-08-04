@@ -1,0 +1,30 @@
+.wpomp_listing_grid .fc-item-default.fc-wait .wpomp_locations {
+    padding: 15px !important;
+}
+
+.wpomp_listing_grid .fc-item-default.fc-wait .wpomp_location_meta {
+    margin-top: 0;
+}
+
+.fc-item-default.fc-wait .wpomp_locations {
+    background: #fff;
+    border: 1px solid #F1F1F1;
+    margin-bottom: 20px;
+}
+
+.fc-item-default.fc-wait .wpomp_locations img {
+    padding: 0px;
+    margin-right: 15px !important;
+}
+
+.fc-item-default.fc-wait .wpomp_locations_foot {
+    margin: 0px;
+}
+
+.fc-item-default .wpomp_location_meta {
+    margin-right: 0px;
+}
+
+.wpomp_listing_list .fc-item-default .wpomp_locations {
+    padding: 15px !important;
+}

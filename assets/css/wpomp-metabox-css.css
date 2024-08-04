@@ -1,0 +1,40 @@
+#wpomp_google_map_metabox input[type="text"] {
+    height: 30px;
+}
+
+#wpomp_google_map_metabox .wpomp_meta_map {
+    width: 100%;
+    height: 200px;
+}
+
+#wpomp_google_map_metabox .wpomp_metabox_location {
+    width: 100%;
+}
+
+#wpomp_google_map_metabox .row_metabox {
+    margin-bottom: 10px;
+}
+
+#wpomp_google_map_metabox .wpomp_metabox_left {
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+}
+
+#wpomp_google_map_metabox .wpomp_metabox_right {
+    display: inline-block;
+    width: 75%;
+}
+
+#wpomp_google_map_metabox span.wpomp_mcurrent_loction {
+    background: url(../images/nav.png) no-repeat;
+    display: inline-block;
+    height: 25px;
+    cursor: pointer !important;
+    vertical-align: middle;
+    width: 25px;
+    float: right;
+    margin: -27px 5px;
+    z-index: 50;
+    position: relative;
+}
